@@ -21,5 +21,5 @@ unsupervised calibration samples
 
 ## Test case
 
-File `main.m' obtains set-prediction rules and compute the corresponding coverage probabilities and set sizes for one random partition of `USPS' dataset. 
+File main.m obtains set-prediction rules and compute the corresponding coverage probabilities and set sizes for one random partition of USPS dataset. 
 
