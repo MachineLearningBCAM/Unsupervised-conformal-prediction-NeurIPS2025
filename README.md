@@ -3,7 +3,7 @@ Classification with Unsupervised Calibration
 
 [![Made with!](https://img.shields.io/badge/Made%20with-MATLAB-red)](/AMRC_Matlab)  [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#support-and-author)
 
-The provided files implement the proposed method for split conformal prediction with unsupervised calibration samples.
+The provided files implement the proposed method for split conformal prediction with unsupervised calibration samples presented in https://arxiv.org/pdf/2510.07185.
 
 
 ## Source code
